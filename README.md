@@ -1,4 +1,4 @@
-# DEP Internship -  Project Overview
+# DEP Internship -  Project Overview(zip format)
 
 ## Introduction
 This repository contains the work completed during my one-month internship at DEP. The internship focused on implementing various systems and tools in C++.
